@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiigari</h1>
 <h3 align="center">learning random stuff idk</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinchyoshinova&label=Profile%20views&color=0e75b6&style=flat" alt="avinchyoshinova" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiigariyoshinova&label=Profile%20views&color=0e75b6&style=flat" alt="hiigariyoshinova" /> </p>
 
 - 🌱 I’m currently learning **discord.js/discord.py**
 
